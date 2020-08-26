@@ -1,4 +1,4 @@
-
+__Summary:__
 The purpose of the Starbucks Capstone Challenge is to use the 
 data to identify which groups of people are most responsive to
 which type of offer, and how best to present each type of offer.
