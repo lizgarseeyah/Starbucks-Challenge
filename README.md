@@ -42,7 +42,7 @@ In conclusion, the random forest model predicted how much someone will spend bas
 A complete summary of the results can be viewed in the blog post.
 
 
-___Link to Blog Post__
+__Link to Blog Post__
 https://github.com/lizgarseeyah/Startbucks_Challenge/blob/master/Starbucks_Project_Challenge_blog.pdf
 
 __Link to GitHub Repository__
